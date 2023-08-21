@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bader-idris&label=Profile%20views&color=0e75b6&style=flat" alt="bader-idris" /> </p>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Bash & postgres**
 
 - 👨‍💻 All of my projects are available at [under-Construction.org](under-Construction.org)
 
