@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bader-idris&label=Profile%20views&color=0e75b6&style=flat" alt="bader-idris" /> </p>
-- 📫 Email me at: `baidsforbusiness@gmail.com`
+- 📫 Email me at: <a href="mailto:baidsforbusiness@gmail.com">baidsforbusiness@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bader-idris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bader-idris" height="30" width="40" /></a>
