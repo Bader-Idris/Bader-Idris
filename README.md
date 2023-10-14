@@ -6,12 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bader-idris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bader-idris" height="30" width="40" /></a>
-<a href="https://dev.to/baderidris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="baderidris" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9408069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9408069" height="30" width="40" /></a>
-<a href="https://kaggle.com/baderidrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="baderidrees" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bader-idris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bader-idris" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@baderidris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@baderidris" height="30" width="40" /></a>
-<a href="https://discord.gg/#3649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3649" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
