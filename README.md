@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bader - Nice to Meet You!
 #### I am a full-stack developer
-![I am a full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+!I am a full stack developer
 
 I pour my heart and soul into crafting your application from the ground up, using the latest tools and technologies. Whether it's bringing life to the backend, sculpting the frontend, or creating magical mobile experiences, I am dedicated to making your dreams a reality. Let's embark on this journey together and build something truly special.
 
