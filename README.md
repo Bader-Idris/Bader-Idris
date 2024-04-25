@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Bader - Nice to Meet You!
 #### I am a full-stack developer
+![Backend API Certificate](https://github.com/Bader-Idris/BE-withFreeCodeCamp/blob/bader/FoxitPDFReader_ZlViOLpxMU.png)
 
 I pour my heart and soul into crafting your application from the ground up, using the latest tools and technologies. Whether it's bringing life to the backend, sculpting the frontend, or creating magical mobile experiences, I am dedicated to making your dreams a reality. Let's embark on this journey together and build something truly special.
+
 
 Skills: VUE JS / JS / HTML / CSS / SASS / EXPRESS / DOCKER / MONGO / PSQL /  GIT 
 
