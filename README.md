@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Bader - Nice to Meet You!
-#### I am a full-stack developer
+#### I am a full-stack developer (NestJs & NuxtJs & dockerized setup CI/CD)
 [![Backend API Certificate](https://github.com/Bader-Idris/BE-withFreeCodeCamp/blob/bader/FoxitPDFReader_ZlViOLpxMU.png)](https://www.freecodecamp.org/certification/Bader-Idris/back-end-development-and-apis)
 
 I pour my heart and soul into crafting your application from the ground up, using the latest tools and technologies. Whether it's bringing life to the backend, sculpting the frontend, or creating magical mobile experiences, I am dedicated to making your dreams a reality. Let's embark on this journey together and build something truly special.
 
-Skills: NUXT.JS V3 / TS / SASS-SCSS / VUE JS / HTML5 / CSS3 / EXPRESS.JS / DOCKER / DOCKER COMPOSE / MONGO / PSQL / BASH SCRIPTING / GIT / DevOps / CAPACITOR.JS / ELECTRON.JS
+Skills: NUXT.JS V3 & V4 / TYPESCRIPT / SASS-SCSS / VUE JS / HTML5 / CSS3 / EXPRESS.JS / NEST.JS / DOCKER / DOCKER COMPOSE / MONGO / POSTGRES / REDIS / BASH SCRIPTING / GIT / DevOps / CAPACITOR.JS / ELECTRON.JS
 
 - 🤔 Ask me about how applications work
 
