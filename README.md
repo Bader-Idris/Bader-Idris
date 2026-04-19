@@ -10,4 +10,4 @@ Skills: NUXT.JS V3 & V4 / TYPESCRIPT / SASS-SCSS / VUE JS / HTML5 / CSS3 / EXPRE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bader-idris)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bader-idrees/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](baderidris.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bader-idris)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bader-idris)](github.com/bader-Idris/nuxt4-fullstack-portfolio)
